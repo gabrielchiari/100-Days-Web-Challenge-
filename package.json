@@ -1,0 +1,24 @@
+{
+  "name": "100-days-web-challenge-",
+  "version": "0.0.1",
+  "description": "100 Days Making UI web challenges",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielchiari/100-Days-Web-Challenge-.git"
+  },
+  "keywords": [
+    "challenge",
+    "UI",
+    "UX"
+  ],
+  "author": "Gabriel Chiari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielchiari/100-Days-Web-Challenge-/issues"
+  },
+  "homepage": "https://github.com/gabrielchiari/100-Days-Web-Challenge-#readme"
+}
